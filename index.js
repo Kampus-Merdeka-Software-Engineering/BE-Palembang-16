@@ -40,7 +40,7 @@ const Listening = sequelize.define('Listening', {
         type: DataTypes.STRING,
         allowNull: false,
     },
-    link_listenings: {
+    link_listening: {
         type: DataTypes.STRING,
         allowNull: false,
     },
